@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVFeatureDetection", "CVFeatureDetection\CVFeatureDetection.csproj", "{9732E079-D30E-4A37-A2AE-0244167450AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVLaneDetection", "CVLaneDetection\CVLaneDetection.csproj", "{454FB8C8-ECD4-4776-821C-20BF39D45AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9732E079-D30E-4A37-A2AE-0244167450AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9732E079-D30E-4A37-A2AE-0244167450AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9732E079-D30E-4A37-A2AE-0244167450AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9732E079-D30E-4A37-A2AE-0244167450AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454FB8C8-ECD4-4776-821C-20BF39D45AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454FB8C8-ECD4-4776-821C-20BF39D45AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454FB8C8-ECD4-4776-821C-20BF39D45AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454FB8C8-ECD4-4776-821C-20BF39D45AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9BDD675-88DB-4C26-ADE5-5305A4402DB2}
+	EndGlobalSection
+EndGlobal

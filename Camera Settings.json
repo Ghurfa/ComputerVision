@@ -1,0 +1,68 @@
+{
+    "fps": 30,
+    "height": 480,
+    "pixel format": "yuyv",
+    "properties": [
+        {
+            "name": "raw_Brightness",
+            "value": 142
+        },
+        {
+            "name": "Brightness",
+            "value": 50
+        },
+        {
+            "name": "raw_Contrast",
+            "value": 5
+        },
+        {
+            "name": "Contrast",
+            "value": 50
+        },
+        {
+            "name": "raw_Saturation",
+            "value": 40
+        },
+        {
+            "name": "Saturation",
+            "value": 20
+        },
+        {
+            "name": "raw_Sharpness",
+            "value": 15
+        },
+        {
+            "name": "Sharpness",
+            "value": 30
+        },
+        {
+            "name": "WhiteBalance",
+            "value": 3097
+        },
+        {
+            "name": "BacklightCompensation",
+            "value": 9
+        },
+        {
+            "name": "Pan",
+            "value": 0
+        },
+        {
+            "name": "Tilt",
+            "value": 0
+        },
+        {
+            "name": "Zoom",
+            "value": 0
+        },
+        {
+            "name": "raw_Exposure",
+            "value": -8
+        },
+        {
+            "name": "Exposure",
+            "value": 25
+        }
+    ],
+    "width": 640
+}

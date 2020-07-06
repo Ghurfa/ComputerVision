@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormCV", "FormCV\FormCV.csproj", "{249A9283-B321-4218-9470-23A25E9F82C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{249A9283-B321-4218-9470-23A25E9F82C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249A9283-B321-4218-9470-23A25E9F82C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249A9283-B321-4218-9470-23A25E9F82C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249A9283-B321-4218-9470-23A25E9F82C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF895E3-6D34-44D0-BA7C-1C73B4B1AE75}
+	EndGlobalSection
+EndGlobal
